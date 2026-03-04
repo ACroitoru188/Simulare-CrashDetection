@@ -9,6 +9,7 @@ Cum functioneaza
 3. afiseaza un mesaj atunci cand airbag-ul este declansat
 
 Posibila imbunatatire
+
 Apel SOS automat dupa declansarea airbag-urilor
 
 Dupa un impact sever in care airbag-urile sunt declansate, sistemul poate porni automat un temporizator de cateva secunde (de exemplu 5 secunde).
