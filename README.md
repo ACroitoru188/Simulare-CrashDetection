@@ -4,11 +4,9 @@ Acest proiect personal are ca scop simularea detectiei unui impact auto si a mec
 
 Cum functioneaza
 
-citeste datele de acceleratie dintr-un fisier CSV
-
-detecteaza un impact pe baza unui prag de acceleratie si a duratei acestuia
-
-afiseaza un mesaj atunci cand airbag-ul este declansat
+1. citeste datele de acceleratie dintr-un fisier CSV
+2. detecteaza un impact pe baza unui prag de acceleratie si a duratei acestuia
+3. afiseaza un mesaj atunci cand airbag-ul este declansat
 
 Posibila imbunatatire
 Apel SOS automat dupa declansarea airbag-urilor
