@@ -1,7 +1,7 @@
 
 Airbag Crash Detection Simulator
-Proiect în C care simulează detectarea unei coliziuni pe baza valorilor de accelerație și afișează momentul în care ar fi declanșat airbagul.
-Aplicația rulează ca simulare software
+
+Acest proiect personal are ca scop simularea detectiei unui impact auto si a mecanismului de declansare a airbag-urilor.
 
 
 Cum functioneaza:
