@@ -12,5 +12,5 @@ Cum functioneaza:
 Posibila imbunatatire
 
 Apel SOS automat dupa declansarea airbag-urilor
--Dupa un impact sever in care airbag-urile sunt declansate, sistemul poate porni automat un temporizator de cateva secunde (ex. 5 secunde).
--Daca in acest interval nu este primita nicio comanda de anulare din partea ocupantilor(vocala sau un buton), sistemul va apela automat serviciile de urgenta.
+
+-Dupa un impact sever in care airbag-urile sunt declansate, sistemul poate porni automat un temporizator de cateva secunde (ex. 5 secunde). Daca in acest interval nu este primita nicio comanda de anulare din partea ocupantilor(vocala sau un buton), sistemul va apela automat serviciile de urgenta.
