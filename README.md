@@ -69,6 +69,7 @@ Apasa Enter pentru iesire...
 Posibile imbunatatiri
 
 Control prin comanda vocala
+
 Pe langa anularea apelului prin tastatura, sistemul ar putea include si comenzi vocale prin care ocupantii vehiculului sa confirme sau sa anuleze apelul catre serviciile de urgenta.
 
 Integrarea mai multor senzori
