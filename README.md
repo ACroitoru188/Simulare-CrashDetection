@@ -15,9 +15,13 @@ Programul salveaza informatii despre impact intr-un fisier numit crash_log.txt.
 Acest fisier contine:
 
 -momentul detectarii impactului
+
 -valoarea acceleratiei in momentul impactului
+
 -severitatea impactului
+
 -locatia GPS simulata
+
 -data si ora producerii evenimentului
 
 
@@ -66,5 +70,7 @@ Integrarea mai multor senzori
 In realitate, detectarea impactului se bazeaza pe mai multi senzori. Proiectul ar putea fi extins pentru a simula si:
 
 -senzori de rotatie
+
 -senzori de impct lateral
+
 -senzori suplimentari de acceleratie
