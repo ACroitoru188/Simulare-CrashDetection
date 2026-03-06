@@ -11,6 +11,8 @@ Functionarea programului:
 7. simularea apelului automat la 112 daca apelul nu este anulat in intervalul de 5 secunde
 8. salvarea informatiilor despre accident intr-un fisier de tip crash log
 
+
+
 Programul salveaza informatii despre impact intr-un fisier numit crash_log.txt.
 Acest fisier contine:
 
@@ -23,6 +25,8 @@ Acest fisier contine:
 -locatia GPS simulata
 
 -data si ora producerii evenimentului
+
+
 
 
 Exemplu de output
@@ -58,6 +62,8 @@ t=9 ms | accel=-1.00 g
 
 Program terminat.
 Apasa Enter pentru iesire...
+
+
 
 
 Posibile imbunatatiri
