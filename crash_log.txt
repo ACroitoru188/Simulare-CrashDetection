@@ -1,7 +1,0 @@
-
-ACCIDENT DETECTAT
-Timp impact: 7 ms
-Acceleratie: -7.00 g
-Severitate: MODERAT
-GPS: 45.6580 , 25.6012
-Timestamp: Fri Mar 06 09:06:51 2026
