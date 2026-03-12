@@ -68,13 +68,13 @@ void post_crash(FILE *f, int *t)
 
 int main()
 {
-    srand(time(NULL));
+    srand((unsigned)time(NULL) ^ (unsigned)clock());
 
     FILE *f = fopen("data/crash_data.csv","w");
 
     if(f == NULL)
     {
-        printf("Nu pot crea fisierul\n");
+        printf("Can't create file\n");
         return 1;
     }
 
@@ -90,7 +90,7 @@ int main()
 
     fclose(f);
 
-    printf("crash_data.csv generat cu succes\n");
+    printf("crash_data.csv generated\n");
 
     return 0;
 }
